@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saalem-git
+- 👋 Hi, I’m Saalem
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning trending technologies 
 - 📫 Can reach me via thesaalem@gmail.com
